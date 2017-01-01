@@ -5,6 +5,9 @@ A smaller battery, 1x1, that costs the same as a large battery. It holds less ch
 
 ##Changelog:
 
+###1.1:
+* updated to A16
+
 ###1.0:
 * threw it together in 2-3 hours
 * things seem to work
